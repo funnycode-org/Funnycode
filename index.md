@@ -1,6 +1,6 @@
 ## Welcome to Funnycode Organization
 
-The Funnycode Organization is a source interest organization from china. We focus on go, java, cloud native, microservice.
+We provide source code learning based on Chinese annotations, and focus on go, java, cloud native, microservice.
 
 ## What we plan to do?
 
